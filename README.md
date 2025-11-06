@@ -1,7 +1,7 @@
-# 📊 Full-Stack Chart Application (MERN Stack)
+# 📊 Full-Stack Chat Application (MERN Stack)
 
 ## 📌 Project Overview  
-This is a full-stack chart application built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**. The application allows users to visualize data dynamically using interactive charts.
+This is a full-stack chat application built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**. The application allows users to visualize data dynamically using interactive charts.
 
 ## 🚀 Features  
 - 📊 Dynamic & interactive charts  
